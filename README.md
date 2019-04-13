@@ -1,6 +1,6 @@
-<h4 align="center">
+<h1 align="center">
 	physionet-challenge-2019
-</h4>
+</h1>
 
 **physionet-challenge-2019** is an open source software suite) for predicting earlier onset of sepsis.
 
