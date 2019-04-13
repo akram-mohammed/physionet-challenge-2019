@@ -30,7 +30,7 @@ To install candis right from scratch, check out our exhaustive guides:
 			<p>Author and Maintainer</p>
 		</td>
 		<td align="center" valign="top">
-			<img height="150" src="https://github.com/akram-mohammed.png?s=150">
+			<img height="150" src="https://media.licdn.com/dms/image/C5603AQFhDZHr3r0KVQ/profile-displayphoto-shrink_800_800/0?e=1560384000&v=beta&t=Yez26smRsR4NXBWFIWFaRrM78Xog_iK-w9N9NJ0I1KE?s=150">
 			<br>
 			<a href="https://github.com/akram-mohammed">Franco van Wyk</a>
 			<br>
