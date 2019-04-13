@@ -39,7 +39,7 @@ To install candis right from scratch, check out our exhaustive guides:
 			<p>Author and Maintainer</p>
 		</td>
 	 			<td align="center" valign="top">
-			<img height="150" src="https://github.com/akram-mohammed.png?s=150">
+			<img height="150" src="https://github.com/akram-mohammed.pn?s=150">
 			<br>
 			<a href="https://github.com/akram-mohammed">Dr. Rishiksan Kamaleswaran</a>
 			<br>
@@ -48,7 +48,7 @@ To install candis right from scratch, check out our exhaustive guides:
 			<p>Author and Maintainer</p>
 		</td>
     <td align="center" valign="top">
-			<img height="150" src="https://github.com/akram-mohammed.png?s=150">
+			<img height="150" src="https://github.com/akram-mohammed.pn?s=150">
 			<br>
 			<a href="https://github.com/akram-mohammed">Dr. Anahita Khojandi</a>
 			<br>
