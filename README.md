@@ -13,8 +13,8 @@
 * [Team](#team)
 
 
-To install candis right from scratch, check out our exhaustive guides:
-* [A Hitchhiker's Guide to Installing the software](https://github.com/HelikarLab/physionet-challenge-2019/wiki/A-Hitchhiker's-Guide-to-Installing-the-software)
+To install the application right from scratch, check out our exhaustive guides:
+* [A Hitchhiker's Guide to Installing the software](https://github.com/akram-mohammed/physionet-challenge-2019/wiki/A-Hitchhiker's-Guide-to-Installing-the-software)
 
 ### Team
 <table align="center">
