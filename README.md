@@ -2,7 +2,7 @@
 	physionet-challenge-2019
 </h1>
 
-**physionet-challenge-2019** is an open source software suite) for predicting earlier onset of sepsis.
+**physionet-challenge-2019** is an open source software suite for predicting earlier onset of sepsis.
 
 **Citation**: If you use physionet please cite
 
@@ -30,34 +30,35 @@ To install candis right from scratch, check out our exhaustive guides:
 			<p>Author and Maintainer</p>
 		</td>
 		<td align="center" valign="top">
-			<img height="150" src="https://media.licdn.com/dms/image/C5603AQFhDZHr3r0KVQ/profile-displayphoto-shrink_800_800/0?e=1560384000&v=beta&t=Yez26smRsR4NXBWFIWFaRrM78Xog_iK-w9N9NJ0I1KE?s=150">
+			<img height="150" src="https://github.com/akram-mohammed.pn?s=150">
 			<br>
 			<a href="https://github.com/akram-mohammed">Franco van Wyk</a>
 			<br>
 			<a href="mailto:fvanwyk@vols.utk.edu">fvanwyk@vols.utk.edu</a>
 			<br>
-			<p>Author and Maintainer</p>
+			<p>Author</p>
 		</td>
-	 			<td align="center" valign="top">
-			<img height="150" src="https://github.com/akram-mohammed.pn?s=150">
-			<br>
-			<a href="https://github.com/akram-mohammed">Dr. Rishiksan Kamaleswaran</a>
-			<br>
-			<a href="mailto:rkamales@uthsc.edu">rkamales@uthsc.edu</a>
-			<br>
-			<p>Author and Maintainer</p>
-		</td>
-    <td align="center" valign="top">
+	        <td align="center" valign="top">
 			<img height="150" src="https://github.com/akram-mohammed.pn?s=150">
 			<br>
 			<a href="https://github.com/akram-mohammed">Dr. Anahita Khojandi</a>
 			<br>
 			<a href="mailto:khojandi@utk.edu">khojandi@utk.edu</a>
 			<br>
-			<p>Author and Maintainer</p>
+			<p>Principal Investigator</p>
+		</td>
+	 		<td align="center" valign="top">
+			<img height="150" src="https://github.com/akram-mohammed.pn?s=150">
+			<br>
+			<a href="https://github.com/akram-mohammed">Dr. Rishiksan Kamaleswaran</a>
+			<br>
+			<a href="mailto:rkamales@uthsc.edu">rkamales@uthsc.edu</a>
+			<br>
+			<p>Principal Investigator</p>
 		</td>
      </tr>
   </tbody>
 </table>
 
 ### License
+BSD-2
